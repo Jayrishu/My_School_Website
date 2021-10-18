@@ -1,0 +1,16 @@
+.mynav{
+    top: 0;
+    position: sticky;
+    z-index: 99999;
+}
+#vid{
+    width: 100%;
+    height: 500px;
+    border-width: 3px;
+    border-color: aqua;
+    border-style: solid;
+}
+body{
+    text-align: center;
+    background-color: red;
+}
